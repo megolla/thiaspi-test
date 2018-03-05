@@ -1,0 +1,3 @@
+Die hier gezeigten Einstellungen usw. laufen live auf den Raspi thiaspi3.local (Küchenfenster)
+
+Stand hier im Ordner: 2017-12-30
